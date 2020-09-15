@@ -1,0 +1,39 @@
+- title: "Transcriptomic data analyses reveal a reprogrammed lipid metabolism in HCV-derived hepatocellular cancer"
+  image: TBG_ARPES.png
+  description:
+  authors: Guoqing Liu*, Guo-Jun Liu, Xiangjun Cui, Ying Xu
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fcell.2020.581863/abstract
+    display:  Frontiers in Cell and Developmental Biology 2020
+  highlight: 1
+  news2:
+ 
+- title: "Dynamic Alternative Splicing During Mouse Preimplantation Embryo Development"
+  image: 
+  description: 
+  authors: Xing Y, Yang W, Liu G, Cui X, Meng H, Zhao H, Zhao X, Li J, Liu Z, Zhang MQ, Cai L.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019016/
+    display:  Frontiers in Bioengineering and Biotechnology 2020
+  highlight: 0
+  news2:
+
+- title: "A co-expression network for differentially expressed genes in bladder cancer and a risk score model for predicting survival"
+  image: 
+  description: 
+  authors: Chen Z, Liu G, Hossain A, Danilova IG, Bolkov MA, Liu G, Tuzankina IA, Tan W. 
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617625/
+    display:  Frontiers in Bioengineering and Biotechnology 2020
+  highlight: 0
+  news2:
+
+- title: "DNA physical properties outperform sequence compositional information in classifying nucleosome-enriched and -depleted regions"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Guo-Jun Liu, Jiu-Xin Tan, Hao Lin 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S088875431830140X
+    display:  Genomics 2019
+  highlight: 0
+  news2:
