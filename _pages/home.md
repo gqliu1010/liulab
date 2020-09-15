@@ -1,12 +1,12 @@
 ---
-title: "Duren Lab - Home"
+title: "Liu Lab - Home"
 layout: homelay
-excerpt: "Duren Lab at Clemson University."
+excerpt: "Liu Lab at IMUST."
 sitemap: false
 permalink: /
 ---
 
-We are a computational biology research group at the [Clemson University Center for Human Genetics](https://scienceweb.clemson.edu/chg/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA. The long-term research goal is to answer the key scientific question” How non-coding genetic variant act through context specific gene regulatory network to influence phenotype”. 
+We are a computational biology and bioinformatics research group at the [Inner Mongolia University of Science and Technology](http://www.imust.cn). Our aim is to explore and understand the mechanisms of reprogramming of lipid metabolism in cancers and meiotic chromosome rearrangement in human disease. The long-term research goal is to answer the key scientific question” How reprogramming of lipid metabolism act through 。。。 to influence 。。。”. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -23,27 +23,27 @@ We are a computational biology research group at the [Clemson University Center 
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
+    
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PECA_overview.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/reprogramming.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PECA.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/iNuc-force.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CoupledNMF.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MIBCsubtype.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TOX2_net.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BendingEnergy.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TimeReg.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/iNuc.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/summary.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/caigroup.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/front.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/restaurant.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -59,10 +59,10 @@ We are a computational biology research group at the [Clemson University Center 
 
 
 
-To this end, we develop novel computational tools for integrative analysis of genomics data to infer gene regulatory networks, to detect heterogeneity, and to annotate the regulatory function of genetic variants by context specific manner. (see [Research](research)).
+To this end, we develop novel computational tools for integrative analysis of genomics data to infer 。。。, and to . (see [Research](research)).
 
-We are part of the <a href="http://www.clemson.edu/">Clemson University </a> <a href="https://scienceweb.clemson.edu/chg/"> Center for Human Genetics</a>, which is located in Self Regional Hall, a state-of-the-art research and educational facility located in Greenwood, South Carolina.
+We are part of the <a href="http://www.imust.cn/">Inner Mongolia University of Science and Technology</a> <a href="http://smxy.imust.cn/xkjs1/xkpt1/swzn.htm/"> Key Laboratory of Functional Genome Bioinformatics </a>, which is located in Baotou, a city is famous for rare earth and deers in Inner Monglia Autonomous Regionn, China.
     
 
- **We are looking for new Postdocs, graduate students, and ungraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new graduate students and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
