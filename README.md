@@ -1,6 +1,6 @@
-# Duren Lab Website
+# Liu Lab Website
 
-This is the website of our academic research group at Clemson University.
+This is the website of our Bioinformatics group at IMUST.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. 
 
