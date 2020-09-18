@@ -37,3 +37,460 @@
     display:  Genomics 2019
   highlight: 0
   news2:
+
+- title: "Identification of miR-200c and miR141-mediated lncRNA-mRNA crosstalks in muscle-invasive bladder cancer subtypes"
+  image: 
+  description: 
+  authors: Guojun Liu, Zihao Chen, Irina G. Danilova, Mikhail A. Bolkov, Irina A. Tuzankina, Guoqing Liu* 
+  link:
+    url: 
+    display:  Frontiers in Genetics 2018
+  highlight: 0
+  news2:
+
+- title: "The affinity of DNA sequences containing R5Y5 motif and TA repeats with 10.5-bp periodicity to histone octamer in vitro"
+  image: 
+  description: 
+  authors: Hongyu Zhao, Fenghui Zhang, Mingxing Guo, Yongqiang Xing, Guoqing Liu, Xiujuan Zhao, Lu Cai*
+  link:
+    url: 
+    display:  J Biomol Struct Dyn, 2018
+  highlight: 0
+  news2:
+
+- title: "The implication of DNA bending energy for nucleosome positioning and sliding"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Yongqiang Xing, Hongyu Zhao, Lu Cai, Jianying Wang 
+  link:
+    url: 
+    display:  Scientific Reports 2018
+  highlight: 0
+  news2:
+
+- title: "Physical properties of DNA may direct the binding of nucleoid-associated proteins along the E. coli genome"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Qin Ma, Ying Xu* 
+  link:
+    url: 
+    display:  Mathematical Biosciences 2018
+  highlight: 0
+  news2:
+
+- title: "iRSpot-Pse6NC: Identifying recombination spots in Saccharomyces cerevisiae by incorporating hexamer composition into general PseKNC"
+  image: 
+  description: 
+  authors: Hui Yang, Wang-Ren Qiu, Guoqing Liu, Feng-Biao Guo, Wei Chen, Kuo-Chen Chou, Hao Lin* 
+  link:
+    url: 
+    display:  International Journal of Biological Sciences, 2018
+  highlight: 0
+  news2:
+
+- title: "Evolutionary direction of processed pseudogenes"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Xiangjun Cui, Hong Li, Lu Cai
+  link:
+    url: 
+    display:  Science China Life Sciences, 2016
+  highlight: 0
+  news2:
+
+- title: "A deformation energy-based model for predicting nucleosome dyads and occupancy"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Yongqiang Xing, Hongyu Zhao, Jianying Wang, Yu Shang and Lu Cai*
+  link:
+    url: 
+    display:  Scientific Reports, 2016
+  highlight: 0
+  news2:
+
+- title: "MiasDB: A Database of Molecular Interactions Associated with Alternative Splicing of Human Pre-mRNAs"
+  image: 
+  description: 
+  authors: 12.  Yongqiang Xing, Xiujuan Zhao, Tao Yu, Dong Liang, Jun Li, Guanyun Wei, Guoqing Liu, Xiangjun Cui, Hongyu Zhao, Lu Cai*
+  link:
+    url: 
+    display:  Plos One 2016
+  highlight: 0
+  news2:
+
+- title: "Nucleosome organization around pseudogenes in the human genome"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Fen Feng, Xiujuan Zhao, Lu Cai*
+  link:
+    url: 
+    display:  BioMed Research International, 2015
+  highlight: 0
+  news2:
+
+- title: "GAA triplet-repeats cause nucleosome depletion in the human genome"
+  image: 
+  description: 
+  authors: Hongyu Zhao, Yongqiang Xing, Guoqing Liu , Ping Chen, Xiujuan Zhao, Guohong Li, Lu Cai*
+  link:
+    url: 
+    display:  Genomics. 2015
+  highlight: 0
+  news2:
+
+- title: "Using weighted features to predict recombination hotspots in Saccharomyce scerevisiae"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Yongqiang Xing, Lu Cai*
+  link:
+    url: 
+    display:  Journal of Theoretical Biology, 2015
+  highlight: 0
+  news2:
+
+- title: "Predicting recombination hotspots in yeast based on DNA sequence and chromatin structure"
+  image: 
+  description: 
+  authors: Bingjie Zhang, Guoqing Liu*
+  link:
+    url: 
+    display:  Curr Bioinformatics, 2014
+  highlight: 0
+  news2:
+
+- title: "Compositional bias is a major determinant of the distribution pattern and abundance of palindromes in Drosophila melanogaster"
+  image: 
+  description: 
+  authors: Guoqing Liu, Jia Liu, Bingjie Zhang
+  link:
+    url: 
+    display:  J Mol Evol, 2012
+  highlight: 0
+  news2:
+
+- title: "Calculation of nucleosomal DNA deformation energy: its implication for nucleosome positioning"
+  image: 
+  description: 
+  authors: Jian-Ying Wang, Jingyan Wang, Guoqing Liu*
+  link:
+    url: 
+    display:  Chromosome Research, 2012
+  highlight: 0
+  news2:
+
+- title: "Sequence-dependent prediction of recombination hotspots in Saccharomyces cerevisiae"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Jia Liu, Xiangjun Cui, Lu Cai
+  link:
+    url: 
+    display:  J Theor Biol, 2012
+  highlight: 0
+  news2:
+
+- title: "Processed pseudogenes are located preferentially in regions of low recombination rates in the human genome"
+  image: 
+  description: 
+  authors: Guoqing Liu*, Hong Li, Lu Cai
+  link:
+    url: 
+    display:  J Evol Biol, 2010
+  highlight: 0
+  news2:
+
+- title: "The correlation between recombination rate and dinucleotide bias in Drosophila melanogaster"
+  image: 
+  description: 
+  authors: Guoqing Liu, Hong Li*
+  link:
+    url: 
+    display:  Journal of Molecular Evolution, 2008
+  highlight: 0
+  news2:
+
+
+
+
+
+- title: "假基因研究进展"
+  image: 
+  description: 
+  authors: 刘国庆，白音宝力高，邢永强
+  link:
+    url: 
+    display:  生物化学与生物物理进展，2010
+  highlight: 0
+  news2:
+
+- title: "人类基因组信息量的扩增速率受重组的影响"
+  image: 
+  description: 
+  authors: 刘国庆，罗辽复
+  link:
+    url: 
+    display:  生物化学与生物物理进展，2012
+  highlight: 0
+  news2:
+
+- title: "Genome-wide characterization and prediction of Arabidopsis thaliana replication origins"
+  image: 
+  description: 
+  authors: Yong-qiang Xing, Guo-qing Liu, Xiu-juan Zhao
+  link:
+    url: 
+    display:  BioSystems 124 (2014)
+  highlight: 0
+  news2:
+
+- title: "Correlations between recombination rate and intron distributions along chromosomes of C. elegans"
+  image: 
+  description: 
+  authors: Hong Li, Guoqing Liu, Xuhua Xia
+  link:
+    url: 
+    display:  Progress in Natural Science, 2009
+  highlight: 0
+  news2:
+
+- title: "The effect of impurities in a three-qubit Ising spin Model"
+  image: 
+  description: 
+  authors: Jia Liu, Guo-Qing Liu, Xiao-Hong Du
+  link:
+    url: 
+    display:  International Journal of Theoretical Physics, 2012
+  highlight: 0
+  news2:
+
+- title: "An analysis and prediction of nucleosome positioning based on information content"
+  image: 
+  description: 
+  authors: Xing Yong-qiang, Liu Guo-qing, Zhao Xiu-juan, Cai Lu*
+  link:
+    url: 
+    display:  Chromosome Res, 2013
+  highlight: 0
+  news2:
+
+- title: "Combinatorial patterns of histone modifications in Saccharomyces.cerevisiae"
+  image: 
+  description: 
+  authors: Xiang-Jun Cui, Hong Li, Guo-Qing Liu
+  link:
+    url: 
+    display:  Yeast, 2011
+  highlight: 0
+  news2:
+
+- title: "Predicting nucleosome binding motif set and analyzing their distributions flanking functional sites of human genes"
+  image: 
+  description: 
+  authors: Tonglaga Bao, Hong Li, Xiaoqing Zhao, Guoqing Liu
+  link:
+    url: 
+    display:  Chromosome Research, 2012
+  highlight: 0
+  news2:
+
+- title: "Pre-mRNA选择性剪接的调控及选择性剪接数据库"
+  image: 
+  description: 
+  authors: 邢永强,刘国庆,蔡禄
+  link:
+    url: 
+    display:  中国生物化学与分子生物学报, 2016
+  highlight: 0
+  news2:
+
+- title: "拟南芥种子萌发过程中差异表达基因的识别和pre-mRNA可变剪接图谱的构建"
+  image: 
+  description: 
+  authors: 邢永强,王延新, 何泽学,崔向军,刘国庆, 孟虎, 赵宏宇,赵秀娟,蔡禄
+  link:
+    url: 
+    display:  科学通报，2019
+  highlight: 0
+  news2:
+
+- title: "拟南芥不同组织基因表达及可变剪接差异分析"
+  image: 
+  description: 
+  authors: 邢永强，何泽学，刘国庆，蔡禄
+  link:
+    url: 
+    display:  生物化学与生物物理进展, 2019
+  highlight: 0
+  news2:
+
+  - title: "基于DNA变形能的核小体定位预测方法研究进展"
+  image: 
+  description: 
+  authors: 刘国庆
+  link:
+    url: 
+    display:  生物信息学, 2019
+  highlight: 0
+  news2:
+
+  - title: "秀丽线虫基因组中的回文序列分布"
+  image: 
+  description: 
+  authors: 冯芬，刘国庆
+  link:
+    url: 
+    display:  内蒙古科技大学学报，2017
+  highlight: 0
+  news2:
+
+    - title: "基于k-mer组分信息的系统发生树构建方法"
+  image: 
+  description: 
+  authors: 刘国庆
+  link:
+    url: 
+    display:  内蒙古大学学报（自然科学版），2013
+  highlight: 0
+  news2:
+
+    - title: "Pre-mRNA选择性剪接的调控及选择性剪接数据库"
+  image: 
+  description: 
+  authors: 刘红梅，刘国庆*
+  link:
+    url: 
+    display:  生物信息学，2013
+  highlight: 0
+  news2:
+
+    - title: "人类基因组中减数分裂重组对二核苷偏好性的影响"
+  image: 
+  description: 
+  authors: 刘国庆，李宏
+  link:
+    url: 
+    display:  科学通报，2009
+  highlight: 0
+  news2:
+
+    - title: "基于多信息融合的酵母重组冷热点预测"
+  image: 
+  description: 
+  authors: 张冰洁，刘国庆*
+  link:
+    url: 
+    display:  科学通报，2014
+  highlight: 0
+  news2:
+
+    - title: "人类基因组中加工假基因分布与重组率和基因密度的关系"
+  image: 
+  description: 
+  authors: 刘国庆，李宏
+  link:
+    url: 
+    display:  生物物理学报，2008
+  highlight: 0
+  news2:
+
+    - title: "人类核糖体蛋白加工假基因在进化中的熵变"
+  image: 
+  description: 
+  authors: 刘国庆，李宏，王芳平，应智强
+  link:
+    url: 
+    display:  内蒙古大学学报（自然科学版），2007
+  highlight: 0
+  news2:
+
+    - title: "人类加工假基因演化过程中的两种信息流"
+  image: 
+  description: 
+  authors: 刘国庆，李宏，赵朝霞.
+  link:
+    url: 
+    display:  生物信息学，2009
+  highlight: 0
+  news2:
+
+    - title: "艾滋病病毒全序列回文结构的研究"
+  image: 
+  description: 
+  authors: 李瑞芳，李宏，刘国庆，王芳平
+  link:
+    url: 
+    display:  内蒙古大学学报（自然科学版），2008
+  highlight: 0
+  news2:
+
+    - title: "厌氧性粘菌基因组中密码对的使用"
+  image: 
+  description: 
+  authors: 王芳平，李宏，王志坚，刘国庆
+  link:
+    url: 
+    display:  生物信息学，2010
+  highlight: 0
+  news2:
+
+    - title: "果蝇基因组中回文序列的分布"
+  image: 
+  description: 
+  authors: 刘国庆，包通拉嘎，邢永强，李宏，蔡禄
+  link:
+    url: 
+    display:  生物物理学报, 2011
+  highlight: 0
+  news2:
+
+    - title: "基于编码序列、基因间序列和氨基酸序列构建的系统发生关系比较"
+  image: 
+  description: 
+  authors: 杨林源，李宏，赵小庆，刘国庆
+  link:
+    url: 
+    display:  生物物理学报,2012
+  highlight: 0
+  news2:
+
+    - title: "人类转录假基因序列碱基片段的分析研究"
+  image: 
+  description: 
+  authors: 齐磊，刘国庆
+  link:
+    url: 
+    display:  集宁师范学院学报, 2012
+  highlight: 0
+  news2:
+
+    - title: "工科院校应用物理专业《理论力学》教学改革的思考"
+  image: 
+  description: 
+  authors: 刘国庆，刘佳，牛金燕
+  link:
+    url: 
+    display:  科技创新导报,2011
+  highlight: 0
+  news2:
+
+    - title: "工科院校大学物理中近代物理部分教学尝试"
+  image: 
+  description: 
+  authors: 牛金艳，李永峰，刘国庆，董玉和
+  link:
+    url: 
+    display:  科技视界，2013
+  highlight: 0
+  news2:
+
+    - title: "裂殖酵母复制起始位点的序列特征分析和预测"
+  image: 
+  description: 
+  authors: 邢永强，赵宏宇，刘国庆，赵秀娟，蔡禄
+  link:
+    url: 
+    display:  生物物理学报，2014
+  highlight: 0
+  news2:
+
+
+
