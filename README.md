@@ -1,4 +1,4 @@
-# Liu Lab Website
+# Liu Lab Website (https://6guojun.github.io/liulab/)
 
 This is the website of our Bioinformatics group at IMUST.
 
