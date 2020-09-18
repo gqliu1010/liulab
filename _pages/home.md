@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a computational biology and bioinformatics research group at the [Inner Mongolia University of Science and Technology](http://www.imust.cn). Our aim is to explore and understand the mechanisms of reprogramming of lipid metabolism in cancers and meiotic chromosome rearrangement in human disease. The long-term research goal is to answer the key scientific question” How reprogramming of lipid metabolism act through 。。。 to influence 。。。”. 
+We are a computational biology and bioinformatics research group at the [Inner Mongolia University of Science and Technology](http://www.imust.cn). Our aim is to explore and understand the biological qustions in following three aspects: (i) epigenetic regulation in meiotic recombination; (ii) metabolic reprogramming in cancer;(iii) Modeling chromatin structure. In parallel, we made numerous efforts in developing novel algorithmic methods and computational analysis approaches to better interpret the various omics data and further gain biological insights (see [Research](research)). 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -57,9 +57,6 @@ We are a computational biology and bioinformatics research group at the [Inner M
 </div>
 
 
-
-
-To this end, we develop novel computational tools for integrative analysis of genomics data to infer 。。。, and to . (see [Research](research)).
 
 We are part of the <a href="http://www.imust.cn/">Inner Mongolia University of Science and Technology</a> <a href="http://smxy.imust.cn/xkjs1/xkpt1/swzn.htm/"> Key Laboratory of Functional Genome Bioinformatics </a>, which is located in Baotou, a city is famous for rare earth and deers in Inner Monglia Autonomous Regionn, China.
     
