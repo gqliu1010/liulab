@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new Postdocs, graduate students, and ungraduate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-## PI 
+## PI
 {% assign number_printed = 0 %}
 {% for member in site.data.team_PI %}
 
