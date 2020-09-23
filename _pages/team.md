@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 
 
-## Postdoc
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -135,7 +135,7 @@ permalink: /team/
 {% endif %}
 
 
-## Graduate Students
+## Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
