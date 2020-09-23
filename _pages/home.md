@@ -39,12 +39,6 @@ We are a computational biology and bioinformatics research group at the [Inner M
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/iNuc.jpg" alt="Slide 5" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/caigroup.jpg" alt="Slide 6" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/restaurant.jpg" alt="Slide 7" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
