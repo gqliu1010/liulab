@@ -1,8 +1,48 @@
-# - name: Guoqing Liu
-#  photo: guoqing.jpg
-#  info: Assitant professor, started Aug 2020
-#  email: durenzn@gmail.com
-#  number_educ: 3
-#  education1: BS in Mathematics and applied mathematics, Beihang University, Beijing, China;
-#  education2: PhD in Operational Research and Cybernetics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China; <a href="https://scholar.google.com/citations?user=M0fnh30AAAAJ&hl=en"> Yong Wang's research group</a>
-#  education3: Postdoc, Department of Statistics, Stanford University; <a href="https://web.stanford.edu/group/wonglab/"> Wing Hung Wong's lab</a>
+- name: Guojun Liu(刘国君)
+  photo: guojunliu.jpg
+  info: PhD, Research assistant, started Aug 2020
+  email: gjliu0325@gmail.com
+  number_educ: 3
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  education2: Master of Science in Theoretical Biophysics, Inner Mongolia University, Hohhot, China
+  education3: Ph.D. in Bioinformatics, Ural Federal University, Ekaterinburg, Russia
+
+- name: Qiguo Zhang(张琦菓)
+  photo: QiguoZhang3.jpg
+  info: M.A.
+  email: 123123123@gmail.com
+  number_educ: 1
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+
+- name: Shuangjian Song(宋双键)
+  photo: ShuangjianSong.jpg
+  info: M.A.
+  email: 123123123@gmail.com
+  number_educ: 1
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+
+- name: Yichen Ren(任逸晨)
+  photo: YichenRen.jpg
+  info: M.A.
+  email: 123123123@gmail.com
+  number_educ: 1
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+
+- name: Biyu Dong(董碧宇)
+  photo: BiyuDong.jpg
+  info: M.A.
+  email: 123123123@gmail.com
+  number_educ: 1
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+
+- name: Anqi Li(李安琪)
+  photo: AnqiLi.jpg
+  info: B.A.
+  email: 123123123@gmail.com
+  number_educ: 0
+
+- name: Hongxia Chi(池红霞)
+  photo: HongxiaChi.jpg
+  info: B.A.
+  email: 123123123@gmail.com
+  number_educ: 0

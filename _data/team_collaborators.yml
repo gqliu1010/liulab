@@ -1,0 +1,26 @@
+- name: Hongyu Zhao
+  photo: HongyuZhao.jpg
+  info: PhD, Professor
+  email: 12345@gmail.com
+  number_educ: 3
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  education2: Master of Science in Theoretical Biophysics, Inner Mongolia University, Hohhot, China
+  education3: Ph.D. in Bioinformatics, Ural Federal University, Ekaterinburg, Russia
+
+- name: Yongqiang Xing
+  photo: YongqiangXing1.jpg
+  info: PhD, Professor
+  email: 12345@gmail.com
+  number_educ: 3
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  education2: Master of Science in Theoretical Biophysics, Inner Mongolia University, Hohhot, China
+  education3: Ph.D. in Bioinformatics, Ural Federal University, Ekaterinburg, Russia
+
+- name: Hu Meng
+  photo: HuMeng.jpg
+  info: PhD, Professor
+  email: 12345@gmail.com
+  number_educ: 3
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  education2: Master of Science in Theoretical Biophysics, Inner Mongolia University, Hohhot, China
+  education3: Ph.D. in Bioinformatics, Ural Federal University, Ekaterinburg, Russia
