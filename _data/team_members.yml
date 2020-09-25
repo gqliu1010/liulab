@@ -14,13 +14,6 @@
   number_educ: 0
   education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
 
-- name: Shuangjian Song(宋双键)
-  photo: ShuangjianSong.jpg
-  info: M.S.
-  email: 123123123@gmail.com
-  number_educ: 0
-  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
-
 - name: Yichen Ren(任逸晨)
   photo: YichenRen1.jpg
   info: M.S.
@@ -28,6 +21,12 @@
   number_educ: 0
   education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
 
+- name: Shuangjian Song(宋双键)
+  photo: ShuangjianSong.jpg
+  info: M.S.
+  email: 123123123@gmail.com
+  number_educ: 0
+  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
 
 - name: Biyu Dong(董碧宇)
   photo: BiyuDong.jpg
