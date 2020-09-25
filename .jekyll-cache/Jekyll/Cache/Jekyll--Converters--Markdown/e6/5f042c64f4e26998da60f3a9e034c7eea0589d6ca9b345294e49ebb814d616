@@ -1,10 +1,10 @@
-I"�<h2 id="pi">PI</h2>
+I"�<h2 id="pi">PI</h2>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/liulab/images/teampic/guoqing.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Guoqing Liu (<a href="https://6guojun.github.io/liulab/downloads/GuoqingLiuCV.pdf"> CV in Chinese</a>)</h4>
+    <h4>Guoqing Liu (<a href="https://6guojun.github.io/liulab/downloads/GuoqingLiuCV.pdf"> 刘国庆, CV in Chinese</a>)</h4>
     <p><i>Professor, PhD<br />email: <a href="mailto:gqliu1010@163.com">gqliu1010@163.com</a></i></p>
     <ul style="overflow: hidden">
 
@@ -35,7 +35,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/liulab/images/teampic/guojunliu.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Guojun Liu(刘国君)</h4>
-    <p><i>Ph.D.<br />email: <a href="mailto:gjliu0325@gmail.com">gjliu0325@gmail.com</a></i></p>
+    <p><i>Ph.D. 研究方向：肿瘤信息学研究, 单细胞网络<br />email: <a href="mailto:gjliu0325@gmail.com">gjliu0325@gmail.com</a></i></p>
     <ul style="overflow: hidden">
 
   
@@ -58,9 +58,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/liulab/images/teampic/QiguoZhang3.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Qiguo Zhang(张琦菓)</h4>
-    <p><i>M.S.<br />email: <a href="mailto:123123123@gmail.com">123123123@gmail.com</a></i></p>
+    <p><i>M.S. 研究方向:减数分裂重组<br />email: <a href="mailto:347285033@qq.com">347285033@qq.com</a></i></p>
     <ul style="overflow: hidden">
 
+  
+  <li> (2015.9-2019.7) Bachelor of Science in Biology, lnner Mongolia University of Science and Technology, Baotou, China; </li>
   
 
   
@@ -79,11 +81,13 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/liulab/images/teampic/ShuangjianSong.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Shuangjian Song(宋双键)</h4>
-    <p><i>M.S.<br />email: <a href="mailto:123123123@gmail.com">123123123@gmail.com</a></i></p>
+    <p><img src="http://localhost:4000/liulab/images/teampic/YichenRen1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Yichen Ren(任逸晨)</h4>
+    <p><i>M.S. 研究方向：重组冷热点预测<br />email: <a href="mailto:849778191@qq.com">849778191@qq.com</a></i></p>
     <ul style="overflow: hidden">
 
+  
+  <li> (2008.9-2012.7) Bachelor of Science in Biology, Huazhong  Agriculture University, Wuhan, China; </li>
   
 
   
@@ -98,11 +102,13 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/liulab/images/teampic/YichenRen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Yichen Ren(任逸晨)</h4>
-    <p><i>M.S.<br />email: <a href="mailto:123123123@gmail.com">123123123@gmail.com</a></i></p>
+    <p><img src="http://localhost:4000/liulab/images/teampic/ShuangjianSong.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Shuangjian Song(宋双键)</h4>
+    <p><i>M.S., 研究方向：重组的分子机制<br />email: <a href="mailto:15047201909@163.com">15047201909@163.com</a></i></p>
     <ul style="overflow: hidden">
 
+  
+  <li> Bachelor of Science in Biology, Inner Mongolia University of Science &amp; Technology, Baotou, China; </li>
   
 
   
@@ -123,9 +129,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/liulab/images/teampic/BiyuDong.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Biyu Dong(董碧宇)</h4>
-    <p><i>M.S.<br />email: <a href="mailto:123123123@gmail.com">123123123@gmail.com</a></i></p>
+    <p><i>M.S. 方向：减数分裂重组的分子机制<br />email: <a href="mailto:dongbiyu2012@163.com">dongbiyu2012@163.com</a></i></p>
     <ul style="overflow: hidden">
 
+  
+  <li> (2008.9-2012.7) Bachelor of Science in Biology, Baoding University, Baoding, China; </li>
   
 
   
@@ -140,11 +148,13 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/liulab/images/teampic/AnqiLi.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Anqi Li(李安琪)</h4>
-    <p><i>B.S.<br />email: <a href="mailto:123123@gmail.com">123123@gmail.com</a></i></p>
+    <p><img src="http://localhost:4000/liulab/images/teampic/HongxiaChi.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Hongxia Chi(池红霞)</h4>
+    <p><i>B.S. 研究方向:亲子鉴定遗传标记的筛选<br />email: <a href="mailto:1539862347@qq.com">1539862347@qq.com</a></i></p>
     <ul style="overflow: hidden">
 
+  
+  <li> (2018.9-2022.9) Bachelor of Science in Biology, Inner Mongolia University of Science &amp; Technology, Baotou, China; </li>
   
 
   
@@ -163,9 +173,9 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/liulab/images/teampic/HongxiaChi.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Hongxia Chi(池红霞)</h4>
-    <p><i>B.S.<br />email: <a href="mailto:123123@gmail.com">123123@gmail.com</a></i></p>
+    <p><img src="http://localhost:4000/liulab/images/teampic/AnqiLi.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Anqi Li(李安琪)</h4>
+    <p><i>B.S. 研究方向：天然无序蛋白<br />email: <a href="mailto:3521416279@qq.com">3521416279@qq.com</a></i></p>
     <ul style="overflow: hidden">
 
   

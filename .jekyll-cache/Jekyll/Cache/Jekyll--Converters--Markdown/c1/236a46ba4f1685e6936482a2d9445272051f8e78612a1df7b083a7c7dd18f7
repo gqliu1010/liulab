@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Liu Lab - Team</title>
-  <meta name="description" content="Liu Lab: Team members">
-  <link rel="stylesheet" href="http://localhost:4000/liulab/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/liulab/team/">
-<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/liulab/images/favicon.ico">
-
-
-  
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="http://localhost:4000/liulab/">Liu Lab @ IMUST</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/liulab/">Home</a></li>
-		<li><a href="http://localhost:4000/liulab/team">Team</a></li>
-		<li><a href="http://localhost:4000/liulab/vacancies">Vacancies</a></li>
-		<li><a href="http://localhost:4000/liulab/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/liulab/research">Research</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="gridid" class="col-sm-12">
-  <h2 id="pi">PI</h2>
+I"�<h2 id="pi">PI</h2>
 
 <div class="row">
 
@@ -83,7 +35,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/liulab/images/teampic/guojunliu.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Guojun Liu(刘国君)</h4>
-    <p><i>Ph.D. 研究方向：肿瘤信息学研究, 单细胞网络<br />email: <a href="mailto:gjliu0325@gmail.com">gjliu0325@gmail.com</a></i></p>
+    <p><i>Ph.D. 研究方向：肿瘤组学研究<br />email: <a href="mailto:gjliu0325@gmail.com">gjliu0325@gmail.com</a></i></p>
     <ul style="overflow: hidden">
 
   
@@ -156,7 +108,7 @@
     <ul style="overflow: hidden">
 
   
-  <li> (2019.08-) Bachelor of Science in Biology, Inner Mongolia University of Science &amp; Technology, Baotou, China; </li>
+  <li> Bachelor of Science in Biology, Inner Mongolia University of Science &amp; Technology, Baotou, China; </li>
   
 
   
@@ -300,38 +252,4 @@
 </div>
 
 <p><strong>We are  looking for new Postdocs, graduate students, and ungraduate students to join the team</strong> <a href="http://localhost:4000/liulab/vacancies">(see openings)</a> <strong>!</strong></p>
-
-</div>
-
-      </div>
-    </div>
-
-    
-<div id="footer" class="panel">
-  <div class="panel-footer">
-  <div class="container-fluid">
-    <div class="row">
-    <div class="col-sm-4">
-      
-      <p>&copy 2020 Liu Lab at IMUST. 
-              <p> Key Laboratory for Functional Genomic Bioinformatics </p>
-        <p> Department of Bioinformatics </p>
-        <p> School of Life Science and Technology </p>
-        <p> Inner Mongolia University of Science and Technology </p>
-
-       <p>  </p><p>
-                  
-            
-    </div>
-    </div>
-  </div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://localhost:4000/liulab/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

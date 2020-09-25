@@ -1,6 +1,6 @@
 - name: Guojun Liu(刘国君)
   photo: guojunliu.jpg
-  info: Ph.D.
+  info: Ph.D. 研究方向：肿瘤信息学研究, 单细胞网络
   email: gjliu0325@gmail.com
   number_educ: 3
   education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
@@ -9,40 +9,41 @@
 
 - name: Qiguo Zhang(张琦菓)
   photo: QiguoZhang3.jpg
-  info: M.S.
-  email: 123123123@gmail.com
-  number_educ: 0
-  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  info: M.S. 研究方向:减数分裂重组
+  email: 347285033@qq.com
+  number_educ: 1
+  education1: (2015.9-2019.7) Bachelor of Science in Biology, lnner Mongolia University of Science and Technology, Baotou, China;
 
 - name: Yichen Ren(任逸晨)
   photo: YichenRen1.jpg
-  info: M.S.
-  email: 123123123@gmail.com
-  number_educ: 0
-  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  info: M.S. 研究方向：重组冷热点预测
+  email: 849778191@qq.com
+  number_educ: 1
+  education1: (2008.9-2012.7) Bachelor of Science in Biology, Huazhong  Agriculture University, Wuhan, China;
 
 - name: Shuangjian Song(宋双键)
   photo: ShuangjianSong.jpg
-  info: M.S.
-  email: 123123123@gmail.com
-  number_educ: 0
-  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
+  info: M.S., 研究方向：重组的分子机制
+  email: 15047201909@163.com
+  number_educ: 1
+  education1: (2019.08-) Bachelor of Science in Biology, Inner Mongolia University of Science & Technology, Baotou, China;
 
 - name: Biyu Dong(董碧宇)
   photo: BiyuDong.jpg
-  info: M.S.
-  email: 123123123@gmail.com
-  number_educ: 0
-  education1: Bachelor of Science in Physics Education, Inner Mongolia Normal University, Hohhot, China;
-
-- name: Anqi Li(李安琪)
-  photo: AnqiLi.jpg
-  info: B.S.
-  email: 123123@gmail.com
-  number_educ: 0
+  info: M.S. 方向：减数分裂重组的分子机制
+  email: dongbiyu2012@163.com
+  number_educ: 1
+  education1: (2008.9-2012.7) Bachelor of Science in Biology, Baoding University, Baoding, China;
 
 - name: Hongxia Chi(池红霞)
   photo: HongxiaChi.jpg
-  info: B.S.
-  email: 123123@gmail.com
+  info: B.S. 研究方向:亲子鉴定遗传标记的筛选
+  email: 1539862347@qq.com
+  number_educ: 1
+  education1: (2018.9-2022.9) Bachelor of Science in Biology, Inner Mongolia University of Science & Technology, Baotou, China;
+
+- name: Anqi Li(李安琪)
+  photo: AnqiLi.jpg
+  info: B.S. 研究方向：天然无序蛋白
+  email: 3521416279@qq.com
   number_educ: 0
